@@ -12,3 +12,17 @@
 0.0.0.0 www.game.brawlstars.com
 0.0.0.0 inbox.brawlstars.com
 0.0.0.0 www.inbox.brawlstars.com
+supercell.com
+www.supercell.com
+game.brawlstarsgame.com
+www.game.brawlstarsgame.com
+brawlstarsgame.com
+www.brawlstarsgame.com
+brawlstars.com
+www.brawlstars.com
+game-assets.brawlstarsgame.com
+www.game-assets.brawlstarsgame.com
+game.brawlstars.com
+www.game.brawlstars.com
+inbox.brawlstars.com
+www.inbox.brawlstars.com
