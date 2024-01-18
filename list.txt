@@ -20,6 +20,9 @@
 0.0.0.0 www.game.clashroyaleapp.com
 0.0.0.0 www.clashofclans.com
 0.0.0.0 www.clashroyaleapp.com
+0.0.0.0 brawlstars.inbox.supercell.com
+0.0.0.0 www.brawlstars.inbox.supercell.com
+
 
 supercell.com
 www.supercell.com
@@ -43,3 +46,7 @@ www.game.clashofclans.com
 www.game.clashroyaleapp.com
 www.clashofclans.com
 www.clashroyaleapp.com
+brawlstars.inbox.supercell.com
+www.brawlstars.inbox.supercell.com
+
+
