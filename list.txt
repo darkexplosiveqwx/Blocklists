@@ -22,6 +22,12 @@
 0.0.0.0 www.clashroyaleapp.com
 0.0.0.0 brawlstars.inbox.supercell.com
 0.0.0.0 www.brawlstars.inbox.supercell.com
+0.0.0.0 id.supercell.com
+0.0.0.0 www.id.supercell.com
+0.0.0.0 inventory.mtech.supercell.com
+0.0.0.0 www.inventory.mtech.supercell.com
+0.0.0.0 cdn.id.supercell.com
+0.0.0.0 www.cdn.id.supercell.com
 
 
 supercell.com
@@ -48,5 +54,11 @@ www.clashofclans.com
 www.clashroyaleapp.com
 brawlstars.inbox.supercell.com
 www.brawlstars.inbox.supercell.com
+id.supercell.com
+www.id.supercell.com
+inventory.mtech.supercell.com
+www.inventory.mtech.supercell.com
+cdn.id.supercell.com
+www.cdn.id.supercell.com
 
 
