@@ -1,0 +1,9 @@
+v10.events.data.microsoft.com
+watson.telemetry.microsoft.com
+telemetry.microsoft.com
+manage.devcenter.microsoft.com
+functional.events.data.microsoft.com
+browser.events.data.msn.com
+self.events.data.microsoft.com
+events.data.msn.com
+events.data.microsoft.com
