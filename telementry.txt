@@ -8,6 +8,8 @@ self.events.data.microsoft.com
 events.data.msn.com
 events.data.microsoft.com
 watson.events.data.microsoft.com
-*.events.data.microsoft.com
-*.events.data.msn.com
-*.telemetry.microsoft.com
+||*.events.data.microsoft.com^
+||*.events.data.msn.com^
+||*.telemetry.microsoft.com^
+
+
