@@ -1,3 +1,6 @@
 googleads.g.doubleclick.net
 doubleclick.net
 g.doubleclick.net
+ad.doubleclick.net
+googleadservices.com
+
