@@ -3,4 +3,7 @@ doubleclick.net
 g.doubleclick.net
 ad.doubleclick.net
 googleadservices.com
+googleads.g.doubleclick.net
 
+(\.|^)doubleclick.net$
+(\.|^)googleadservices.com$
