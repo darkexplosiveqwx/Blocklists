@@ -1,0 +1,4 @@
+graph.facebook.com
+mesu.g.aaplimg.com
+iadcontent.apple.com
+configuration.apple.com
