@@ -1,0 +1,90 @@
+# Pi-hole DNS Provider Blocklist
+# Allows: Cloudflare (1.1.1.1), Quad9 (9.9.9.9)
+# Blocks: Other DNS providers including Apple DNS
+# Last updated: 2024-10-05
+
+# Standard DNS Provider Blocks
+8.8.8.8
+8.8.4.4
+dns.google
+208.67.222.222
+208.67.220.220
+resolver1.opendns.com
+resolver2.opendns.com
+4.2.2.1
+4.2.2.2
+4.2.2.3
+4.2.2.4
+4.2.2.5
+4.2.2.6
+8.26.56.26
+8.20.247.20
+199.85.126.10
+199.85.127.10
+94.140.14.14
+94.140.15.15
+dns.adguard.com
+185.228.168.9
+185.228.169.9
+security-filter-dns.cleanbrowsing.org
+76.76.19.19
+76.223.122.150
+dns.alternate-dns.com
+84.200.69.80
+84.200.70.40
+resolver1.dns.watch
+resolver2.dns.watch
+77.88.8.8
+77.88.8.1
+dns.yandex.ru
+64.6.64.6
+64.6.65.6
+dns.verisign.com
+91.239.100.100
+89.233.43.71
+unicast.uncensoreddns.org
+
+# Apple DNS Blocks
+# Primary Apple DNS servers
+17.253.0.0
+17.253.0.1
+17.253.0.2
+17.253.0.203
+17.253.0.204
+17.253.0.207
+17.253.2.0
+17.253.2.1
+17.253.2.2
+17.253.2.3
+17.253.2.4
+17.253.2.5
+17.253.2.6
+17.253.2.7
+17.253.2.8
+17.253.2.9
+17.253.2.10
+17.253.2.11
+17.253.2.12
+17.253.2.13
+17.253.2.14
+17.253.2.15
+17.253.2.16
+17.253.2.17
+17.253.2.18
+17.253.2.19
+17.253.2.20
+17.253.2.21
+17.253.2.22
+17.253.2.23
+17.253.2.24
+17.253.2.25
+
+# Apple DNS domains
+ns.apple.com
+dns.apple.com
+doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
+mask.apple-dns.net
+mask-h2.icloud.com
+mask.icloud.com
+api.smoot.apple.com
