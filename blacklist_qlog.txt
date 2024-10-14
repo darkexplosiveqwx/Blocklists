@@ -1,0 +1,10 @@
+#Added form own Pihole logs, doesnt seem to affect functionality
+
+star.c10r.facebook.com
+mqtt.c10r.facebook.com
+video-stats.video.google.com
+spocs.getpocket.com
+prod.ads.prod.webservices.mozgcp.net
+osuspider.yuanshen.com
+datapipeline.logitech.io
+collector.bsg.brave.com
