@@ -1,64 +1,19 @@
-0.0.0.0 supercell.com
-0.0.0.0 www.supercell.com
-0.0.0.0 game.brawlstarsgame.com
-0.0.0.0 www.game.brawlstarsgame.com
-0.0.0.0 brawlstarsgame.com
-0.0.0.0 www.brawlstarsgame.com
-0.0.0.0 brawlstars.com
-0.0.0.0 www.brawlstars.com
-0.0.0.0 game-assets.brawlstarsgame.com
-0.0.0.0 www.game-assets.brawlstarsgame.com
-0.0.0.0 game.brawlstars.com
-0.0.0.0 www.game.brawlstars.com
-0.0.0.0 inbox.brawlstars.com
-0.0.0.0 www.inbox.brawlstars.com
-0.0.0.0 game.clashofclans.com
-0.0.0.0 game.clashroyaleapp.com
-0.0.0.0 clashofclans.com
-0.0.0.0 clashroyaleapp.com
-0.0.0.0 www.game.clashofclans.com
-0.0.0.0 www.game.clashroyaleapp.com
-0.0.0.0 www.clashofclans.com
-0.0.0.0 www.clashroyaleapp.com
-0.0.0.0 brawlstars.inbox.supercell.com
-0.0.0.0 www.brawlstars.inbox.supercell.com
-0.0.0.0 id.supercell.com
-0.0.0.0 www.id.supercell.com
-0.0.0.0 inventory.mtech.supercell.com
-0.0.0.0 www.inventory.mtech.supercell.com
-0.0.0.0 cdn.id.supercell.com
-0.0.0.0 www.cdn.id.supercell.com
-
-
-supercell.com
-www.supercell.com
-game.brawlstarsgame.com
-www.game.brawlstarsgame.com
-brawlstarsgame.com
-www.brawlstarsgame.com
-brawlstars.com
-www.brawlstars.com
-game-assets.brawlstarsgame.com
-www.game-assets.brawlstarsgame.com
-game.brawlstars.com
-www.game.brawlstars.com
-inbox.brawlstars.com
-www.inbox.brawlstars.com
-game.clashofclans.com
-game.clashroyaleapp.com
-clashofclans.com
-clashroyaleapp.com
-www.game.clashofclans.com
-www.game.clashroyaleapp.com
-www.clashofclans.com
-www.clashroyaleapp.com
-brawlstars.inbox.supercell.com
-www.brawlstars.inbox.supercell.com
-id.supercell.com
-www.id.supercell.com
-inventory.mtech.supercell.com
-www.inventory.mtech.supercell.com
-cdn.id.supercell.com
-www.cdn.id.supercell.com
-
-
+||supercell.com^
+||brawlstarsgame.com^
+||brawlstars.com^
+||clashofclans.com^
+||clashroyaleapp.com^
+||mtech.supercell.com^
+||cdn.supercell.com^
+||squadbusters.com^
+||brawlstars.inbox.supercell.com^
+||id.supercell.com^
+||inventory.mtech.supercell.com^
+||cdn.id.supercell.com^
+||game-assets.brawlstarsgame.com^
+||game.brawlstarsgame.com^
+||game.brawlstars.com^
+||game.clashofclans.com^
+||game.clashroyaleapp.com^
+||squadbustersgame.com^
+||game.squadbustersgame.com^
