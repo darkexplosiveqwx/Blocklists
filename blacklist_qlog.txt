@@ -10,5 +10,4 @@ datapipeline.logitech.io
 collector.bsg.brave.com
 consent.google.com
 cvws.apple-dns.net
-fmfmobile.fe2.apple-dns.net
 humb.apple.com
